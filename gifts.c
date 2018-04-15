@@ -26,7 +26,7 @@ void main()
 	}
 	for(i=0;i<n;i++)
 	{
-		printf("\Enter Student Name:");
+		printf("\nEnter Student Name:");
 		scanf("%s",&s[i].name);
 		printf("\nEnter the arrival time of the student:");
 		scanf("%d",&s[i].atime);
